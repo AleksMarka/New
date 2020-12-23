@@ -1,5 +1,5 @@
 <<<<<<< 512f4618f0d5b8b267f091d4ecdec55ecbe82a83
-New
+New - 6
 =======
 # Задача 1
 from time import sleep
